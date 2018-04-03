@@ -5,11 +5,11 @@
 * must support iOS and Android
 * should use majority language speech recognition (Siri, Google Assistant) to look up words and expressions to translate
 * should use speech synthesis from Acapela (or later: us) to read out loud the translated input words (only SME for now, other languages when voices are available)
-* should use open-source OCR libraries and built-in camera to recognice printed text and provide translations
-  * Teseract? Other open-source OCR libraries?
-  * Teseract needs to be trained on every font, not optimal
+* should use open-source OCR libraries and built-in camera to recognise printed text and provide translations
+  * Tesseract? Other open-source OCR libraries?
+  * Tesseract needs to be trained on every font, not optimal
   * see [OCRopus ](https://en.wikipedia.org/wiki/OCRopus) for an alternative
-  * instead of an OCR library one can use OS services, if available
+  * instead of an OCR library one can use OS services, if available, e.g. https://developers.google.com/vision/android/text-overview
 * look-up words in text (using morphological analysis (+ disambiguation?) of input string)
     * preferably using OS services if available
 * look-up single words / lemmas in the dictionary (standard search)
