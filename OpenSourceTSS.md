@@ -41,7 +41,7 @@ part of the work for this section of the tender.
 
 ## Integration with operating systems
 
-Closed-source integration will be accepted if required by the OS wendor.
+Closed-source integration will be accepted if required by the OS vendor.
 
 ## Updates
 

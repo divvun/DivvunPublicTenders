@@ -11,7 +11,7 @@
   updated via the Páhkat repository
     * does this mean that we need/want a Páhkat client for Linux? Or could it be
       embedded in the GUI app if this is the only use case for Páhkat on Linux?
-* the app is essentiallly a graphical wrapper around libdivvun + `zcheck` files:
+* the app is essentially a graphical wrapper around libdivvun + `zcheck` files:
     * text used as input to libdivvun in one pane
     * output appears in the other pane
     * processing is done as specified in the `zcheck` file for the given
