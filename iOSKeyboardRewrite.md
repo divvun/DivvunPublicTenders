@@ -14,6 +14,7 @@ This sub-project should be run after the [mobile keyboard speller](MobileSpell.m
 * the new codebase should be written so that it is easy to add new functionality and new properties to the keyboard app
 * it should include a first-time startup guide
 * it should use the Páhkat package management to install and update additional functionality for languages selected by the user
+* functionally and graphically it should as closely as possible resemble Apple’s keyboards for everything that is not our own additional functionality or a plugin functionality
 
 ## Requirements
 
