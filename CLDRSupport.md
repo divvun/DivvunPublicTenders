@@ -13,6 +13,7 @@
 * improved X11 support
     * read and include existing keyboard defs
     * X11 keyboard def should use include statement + overrides
+* support for Chromebooks / ChromeOS
 * support for m17n/ibus
 * improved templating based on CLDR data online
 * possibly a web-based, graphical editor for the yaml flies
