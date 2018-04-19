@@ -1,5 +1,7 @@
 # Divvun public tender 2018
 
+The Divvun group at UiT The Arctic University of Norway is extending and improving its tools, and also making new tools for the best of the Sámi community. Most of the planned work involves programming tasks outside the competence of the group, and we are thus running this public tender to find the best suited company or companies to do the work for us.
+
 The Divvun public tender in 2018 covers the following components, further
 specified in the linked documents. The tender covers the following tasks:
 
