@@ -20,5 +20,5 @@ specified in the linked documents. The tender covers the following tasks, roughl
 1. [Word completion and prediction](WordCompletionPrediction.md)
 1. [Open-source text-to-speech](OpenSourceTSS.md)
 
-The [tender admin page](TenderAdmin.md) specifies the tender process, selection
-criteria, qualifying requirements etc.
+The [tender admin page](TenderAdmin.md) specifies the tender process,
+selection criteria, qualifying requirements etc.

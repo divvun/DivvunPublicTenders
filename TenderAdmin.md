@@ -10,20 +10,20 @@ The Divvun group can — at its own sole discretion — decide to not purchase a
 
 In all of EU/EEA.
 
-## Requirements
+## Tender requirements
 
-* solid experience in the programming languages and other relevant skills needed for each subproject
-* audited financial and tax reports for the last fiscal year
+* solid experience in the programming languages and other relevant skills needed for each subproject; solid means experience from at least five projects involving the topic at hand and the relevant programming languages
+* audited financial reports and tax reports for the last fiscal year
 * additional requirements listed for each subproject
 
 ## Selection criteria
 
-* price — XX%
-* something measuring organisation quality — XX%
-* in-house experience in the relevant programming languages — XX%
-* additional criterias in each subproject — XX%
+* price — 15%
+* something measuring organisation quality — 15% - XXX - what?
+* in-house experience in the relevant programming languages — 40%
+* additional criterias in each subproject — 30%
 
-**Note:** Everything else being roughly equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects.
+**Note:** Everything else being roughly equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects. Also, more experience in the relevant programming languages or topic at hand is preferred over less experience. This can be documented e.g. as a list of past projects, with a reference person with contact information for each such project.
 
 ## Acceptance requirements
 
@@ -40,4 +40,4 @@ Before delivery of final version of each subproject:
 ## Copyright and license
 
 * All code should have an open licence selected by Divvun
-* the delivered code should be © UiT
+* the delivered code must be © UiT
