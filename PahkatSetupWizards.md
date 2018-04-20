@@ -11,7 +11,12 @@ This subproject should add a new feature to the Páhkat clients for [Windows](ht
     * language set can be changed later in settings window
     * notify user of new tools for the selected language(s)
 
-## Requirements
+## Compatibility requirements
+
+* Windows 7+
+* macOS 10.8+
+
+## Tender requirements
 
 * solid macOS programming experience
 * solid Windows & Inno Setup programming experience

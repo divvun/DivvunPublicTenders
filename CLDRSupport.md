@@ -19,7 +19,16 @@
 * possibly a web-based, graphical editor for the yaml flies
     * needs to display both the yaml content and the layout editor, and data should be two-way synced so that one can edit both
 
-## Requirements
+## Compatibility requirements
+
+* Windows 7+
+* macOS 10.8+
+* Linux
+* iOS 8+
+* Android 5+
+* ChromeOS
+
+## Tender requirements
 
 * solid Python experience
 * solid macOS programming experience

@@ -11,7 +11,7 @@ The following is a schematic view of the main components of the grammar checker:
 ## Front-end / grammar checker plugin
 
 The front-end code should be based on the
-[GrammarSoft frontend code](https://github.com/GrammarSoft/proofing-gasmso), but reworked so that it can also run offline, primarily when used with MS Office. More specifically, it needs to:
+[GrammarSoft frontend code](https://github.com/GrammarSoft/proofing-gasmso) (or the soon-to-be more open fork for Greenlandic), but reworked so that it can also run offline, primarily when used with MS Office. More specifically, it needs to:
 
 * download all required libraries and components from the server and store them locally in a cache, and use them locally
 * when there is a network connection, the front-end should check with the back-end server for new versions, and if found, download and install the newer version
@@ -64,7 +64,14 @@ The server backend must be a wrapper around [libdivvun](https://github.com/divvu
 
 The interface should also follow whatever the REST/GraphQL subproject settles on.
 
-## Requirements
+## Compatibility requirements
+
+* MS Office 2016 and newer, MS Office 365
+    * Windows, macOS, iOS (iPad only)
+* Google apps
+    * Windows, macOS, ChromeOS, iOS (iPad only), Android
+
+## Tender requirements
 
 * solid C++ programming experience
 * solid JavaScript and NodeJS or similar experience

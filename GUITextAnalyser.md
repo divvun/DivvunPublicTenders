@@ -29,7 +29,7 @@ GUI mockup:
 
 ![Mockup interface](bilete/AnalAppMockup.png)
 
-# Notes
+## Notes
 
 * the **Analysis** popup menu is just a listing of the available pipelines for the selected language, as returned by libdivvun
 * **Output format** is a list of whatever final reformatting we choose to provide as part of the app — it should at be a reasonable selection of formats, like:
@@ -50,19 +50,23 @@ See also the
 [Oslo LAP](https://www.mn.uio.no/ifi/english/research/projects/clarino/) web
 app.
 
-# Target user group
+## Target user group
 
 Linguists and researchers wanting to use our analysis tools without having to compile and set up a large number of different things. This app (obtained via the Páhkat clients) should be a one-stop-get-it-all for researchers interested in the languages in the Giella infra.
 
-# Possible future extension
+## Possible future extension
 
 * tool or interface to provide user feedback - missing words, wrong analyses, etc
 * one pane for each analysis step?
     * each pane could be editable, so that corrections can be made, and the corrected data would then be used as input for the subsequent processing steps/panes?
 
-# Tender administration
+## Compatibility requirements
 
-## Requirements
+* Windows 7+
+* macOS 10.8+
+* Linux
+
+## Tender requirements
 
 * solid C/C++ experience
 * solid macOS UI programming experience

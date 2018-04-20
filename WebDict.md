@@ -57,7 +57,11 @@ The new implementation should provide the following existing functionality:
 * paradigm generation for a given word by clicking on that word or a symbol nearby
 * speech synthesis for North Sámi entries (later also for other languages) by clicking on a symbol close to the entry
 
-## Requirements
+## Compatibility requirements
+
+* browser compatibility: all modern browsers plus IE11
+
+## Tender requirements
 
 * solid XQuery or alternate backend query language experience
 * solid Javascript programming experience

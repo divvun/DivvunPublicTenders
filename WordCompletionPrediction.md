@@ -17,7 +17,12 @@ Probably something along the following lines:
 * trigram model of word forms
 * trigram model of lemma / POS / inflections
 
-## Requirements
+## Compatibility requirements
+
+* iOS 9+
+* Android 5+
+
+## Tender requirements
 
 * solid Rust programming experience
 * solid iOS programming experience

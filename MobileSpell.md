@@ -4,7 +4,12 @@
 * speller files updated via a Páhkat repository
 * generate speller error model for nearby key hits based on keyboard layout
 
-## Requirements
+## Compatibility requirements
+
+* iOS 8+
+* Android 5+
+
+## Tender requirements
 
 * solid Rust programming experience
 * solid iOS programming experience

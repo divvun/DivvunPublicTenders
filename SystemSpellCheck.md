@@ -9,7 +9,12 @@
     * through a Páhkat repository
     * as independent installers
 
-## Requirements
+## Compatibility requirements
+
+* Windows 8.1+
+* macOS 10.10+
+
+## Tender requirements
 
 * solid macOS programming experience
 * solid Windows programming experience

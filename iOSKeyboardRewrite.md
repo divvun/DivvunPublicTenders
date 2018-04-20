@@ -16,7 +16,11 @@ This sub-project should be run after the [mobile keyboard speller](MobileSpell.m
 * it should use the Páhkat package management to install and update additional functionality for languages selected by the user
 * functionally and graphically it should as closely as possible resemble Apple’s keyboards for everything that is not our own additional functionality or a plugin functionality
 
-## Requirements
+## Compatibility requirements
+
+* iOS 9+
+
+## Tender requirements
 
 * solid iOS programming experience
 * solid iPhone and iPad UI design experience

@@ -36,7 +36,12 @@ Whether to build one app for each language (containing dictionaries to and from 
 
 See also [Mothertoungues.org](http://mothertongues.org/), and the dictionary app released by Språkcentrum in Östersund (link forthcoming).
 
-## Requirements
+## Compatibility requirements
+
+* iOS 9+
+* Android 5+
+
+## Tender requirements
 
 * solid iOS and Android programming experience
 * solid mobile and pad UI experience

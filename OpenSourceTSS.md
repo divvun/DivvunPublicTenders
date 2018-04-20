@@ -47,7 +47,13 @@ Closed-source integration will be accepted if required by the OS vendor.
 
 TTS engine and TTS voices should be updated via a Páhkat repository & the Páhkat clients
 
-## Requirements
+## Compatibility requirements
+
+* Windows 7+
+* macOS 10.8+
+* Linux
+
+## Tender requirements
 
 * solid macOS programming experience
 * solid Windows programming experience

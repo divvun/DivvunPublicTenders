@@ -12,7 +12,13 @@ OmegaT is a translator's workbench, with support for a lot of tools to improve t
 * MT is already supported [via Apertium](http://wiki.apertium.org/wiki/Apertium_OmegaT_Native "Apertium OmegaT Native article on the Apertium wiki")
 * most, if not all, should be installable and automatically updated via a Páhkat repo
 
-## Requirements
+## Compatibility requirements
+
+* Windows 7+
+* macOS 10.8+
+* Linux
+
+## Tender requirements
 
 * solid Java experience
 * solid macOS programming experience
