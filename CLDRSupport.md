@@ -1,4 +1,4 @@
-# Improved CLDR support in the keyboard infra
+# Extensions to the keyboard infra & improved CLDR support
 
 ## Locale support
 * support for specifying locale data in a simple (yaml) format
@@ -6,6 +6,11 @@
 * yaml support for Windows specific locale data
 * support for building Windows locale installers
 * Windows locale installer must be integrated with Windows keyboard installer so that both are installed together
+
+### Compatibility requirements
+
+* Windows 8.1+
+* CLDR xml format
 
 ## Improved keyboard support
 * export keyboard defs in CLDR xml
@@ -19,14 +24,16 @@
 * possibly a web-based, graphical editor for the yaml flies
     * needs to display both the yaml content and the layout editor, and data should be two-way synced so that one can edit both
 
-## Compatibility requirements
+### Compatibility requirements
 
 * Windows 7+
 * macOS 10.8+
-* Linux
-* iOS 8+
+* Linux (X11 & m17n/ibus)
+* iOS 10+
 * Android 5+
 * ChromeOS
+
+A degraded experience is acceptable where older operating systems pose difficulties for implementation.
 
 ## Tender requirements
 
