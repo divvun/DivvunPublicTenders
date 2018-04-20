@@ -39,4 +39,5 @@ Services in the planning:
 Before delivery of final version:
 
 * API documentation
+* server and service setup documentation
 * working REST/GraphQL services
