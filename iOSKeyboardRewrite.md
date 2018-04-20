@@ -15,10 +15,11 @@ This sub-project should be run after the [mobile keyboard speller](MobileSpell.m
 * it should include a first-time startup guide
 * it should use the Páhkat package management to install and update additional functionality for languages selected by the user
 * functionally and graphically it should as closely as possible resemble Apple’s keyboards for everything that is not our own additional functionality or a plugin functionality
+* keyboard layout should adapt to portrait or landscape orientation of iPads, similar to what Apple keyboards do
 
 ## Compatibility requirements
 
-* iOS 9+
+* iOS 10+
 
 ## Tender requirements
 
