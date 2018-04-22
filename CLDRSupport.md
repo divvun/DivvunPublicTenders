@@ -12,7 +12,7 @@
 * Windows 8.1+
 * CLDR xml format
 
-## Improved keyboard support
+## Keyboard support
 * export keyboard defs in CLDR xml
 * macOS XML import
 * improved X11 support
@@ -34,6 +34,11 @@
 * ChromeOS
 
 A degraded experience is acceptable where older operating systems pose difficulties for implementation.
+
+## General keyboard infra improvements
+
+* Consolidate all automatically downloaded dependencies (excluding git dependencies) in kbdgen to use a Páhkat repository
+    * allow macOS hosts to install WindowsInstaller packages using Wine
 
 ## Tender requirements
 
