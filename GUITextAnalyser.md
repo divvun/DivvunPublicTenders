@@ -1,5 +1,6 @@
 # Graphical text analysis application for linguists
 
+## Basic features of the app
 * paste text, get analysed text in a different window/pane:
     * syntactic tree structure/dependency tree
     * there should be different formatting/rendering options for the analysis
@@ -20,6 +21,7 @@
   native code for the UI parts. No generic UI libraries should be used!
   This is done to get application behavior and look&feel that properly follows
   the guidelines and user expectations of each platform
+* all regular keyboard shortcuts as per conventions on each supported platform should be available, plus additional app-specific keyboard shortcuts. The exact list of app-specific keyboard shortcuts will be defined as part of the development process.
 
 Also have a look at
 [Apertium Simpleton](http://wiki.apertium.org/wiki/Apertium_Simpleton_UI) for
