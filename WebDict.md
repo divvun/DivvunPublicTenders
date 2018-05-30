@@ -25,6 +25,7 @@ The following areas should be addressed by the tender:
     * paradigm generation (**new**)
     * speech synthesis (**new**)
     * corpus searches (**existing**)
+* should use the REST/GraphQL interface for searching and looking up dictionary content
 
 More specifically, the web app should be developed as a modern web app adhering to the following:
 
@@ -60,6 +61,10 @@ The new implementation should provide the following existing functionality:
 ## Compatibility requirements
 
 * browser compatibility: all modern browsers plus IE11
+
+## Alternative interface - MS Office plugin
+
+Part of the project is to develop an MS Office web plugin that allows searching and looking up dictionary entries and translations from within MS Office. See [this Bugzilla entry](http://giellatekno.uit.no/bugzilla/show_bug.cgi?id=2443) for some more details. The plugin should use the same REST/GraphQL interface as the stand-alone web app.
 
 ## Tender requirements
 
