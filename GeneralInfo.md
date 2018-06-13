@@ -1,14 +1,10 @@
-# Basic tender admin stuff
+# General info
 
-## General info
-
-It is possible to submit offers for a single subproject, or some subprojects, but see the note under *Selection criteria*.
+It is possible to submit offers for a single subproject, or some subprojects, but see the note below.
 
 The Divvun group can — at its own sole discretion — decide to not purchase a given subproject from any tenderer. The final set of subprojects to actually go forward with is decided single-handedly by the Divvun group.
 
-## Announcement area
-
-In all of EU/EEA.
+**Note:** Everything else being equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects. Also, more experience in the relevant programming languages or topic at hand is preferred over less experience. This can be documented e.g. as a list of past projects, with a reference person with contact information for each such project.
 
 ## Tender requirements
 
@@ -16,26 +12,17 @@ In all of EU/EEA.
 * audited financial reports and tax reports for the last fiscal year
 * additional requirements listed for each subproject
 
-## Selection criteria
-
-* price — 15%
-* something measuring organisation quality — 15% - XXX - what?
-* in-house experience in the relevant programming languages — 40%
-* additional criterias in each subproject — 30%
-
-**Note:** Everything else being roughly equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects. Also, more experience in the relevant programming languages or topic at hand is preferred over less experience. This can be documented e.g. as a list of past projects, with a reference person with contact information for each such project.
-
 ## Acceptance requirements
 
-Before delivery of final version of each subproject:
+Before delivery of the final version of each subproject:
 
 * the code must be in [Github.com/divvun](https://github.com/divvun), with all tests passing
-    * the code needs to build on all relevant platforms
+    * the code needs to build on all platforms specified for each subproject
 * the code must have been built with all tests passing on at least one of the computers of the Divvun group
 * the code, possible API's and all functionality must be documented
 * the code must meet specifications
 * the code must follow linting standards agreed upon at contract signing time
-* further acceptance requirements can be specified in each subproject
+* further acceptance requirements may be specified in each subproject
 
 ## Copyright and license
 

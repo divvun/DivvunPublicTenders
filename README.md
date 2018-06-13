@@ -19,5 +19,6 @@ The Divvun public tender in 2018 covers the following components, or sub-project
 1. [Word completion and prediction](WordCompletionPrediction.md)
 1. [Open-source text-to-speech](OpenSourceTSS.md)
 
-The [tender admin page](GeneralInfo.md) specifies the tender process,
-selection criteria, qualifying requirements etc.
+Some general info is collected on [a separate page](GeneralInfo.md),
+specifying general selection criteria, qualifying requirements,
+acceptance requirements and licensing.
