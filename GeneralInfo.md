@@ -17,11 +17,11 @@ The Divvun group can — at its own sole discretion — decide to not purchase a
 Before delivery of the final version of each subproject:
 
 * the code must be in [Github.com/divvun](https://github.com/divvun), with all tests passing
-    * the code needs to build on all platforms specified for each subproject
+* the code must build on all platforms specified for each subproject
 * the code must have been built with all tests passing on at least one of the computers of the Divvun group
 * the code, possible API's and all functionality must be documented
 * the code must meet specifications
-* the code must follow linting standards agreed upon at contract signing time
+* the code must follow linting standards agreed upon at contract signing time, or a specified time short thereafter
 * further acceptance requirements may be specified in each subproject
 
 ## Copyright and license
