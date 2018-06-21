@@ -10,14 +10,14 @@
   * Tesseract needs to be trained on every font, not optimal
   * see [OCRopus ](https://en.wikipedia.org/wiki/OCRopus) for an alternative
   * instead of an OCR library one can use OS services, if available, e.g. https://developers.google.com/vision/android/text-overview
-* look-up words in text (using morphological analysis (+ disambiguation?) of input string)
+* look-up words in text (using morphological analysis (+ disambiguation using libdivvun (XXX ref) if context is available) of input string)
     * preferably using OS services if available
 * look-up single words / lemmas in the dictionary (standard search)
 * dictionary content updated via a Páhkat repository
     * default: stable channel, check every week
 * the details of the user interface should be worked out in cooperation between Divvun&Giellatekno and the winning tenderer
 * fuzzy match, possibly based on our speller technology, frequency ranked
-* Korp lookup if corpus for the language is available, and Internet connection is available
+* Korp (XXX - kva er Korp? lenke) lookup if corpus for the language is available, and Internet connection is available
 * paradigm/word form generation (off-line, fst-based)
     * key forms
     * full paradigm
@@ -25,11 +25,11 @@
 * speedy, fast lookup of dictionary entries
 * clear and easy-to-read typography
 * easy to use
-* should use the same XML format as the other dictionary platforms as input at buid time (but internal representation can of course be different)
+* should use the same XML format as the other dictionary platforms as input at build time (but internal representation can of course be different) (XXX - referanse til XML-formatet)
 * support for audio, video, images as part of dictionary entries
 * search history
-* when looking up compound words in text that are not found in the dictionary, the app should present the articles for the compound constituents. The same goes for derivations
-* cross reference lookup
+* when looking up compound words in text that are not found in the dictionary, the app should analyse the compound word using the fst analyser, and present the articles for the compound constituents. The same goes for derivations.
+* dictionary cross reference lookup should be supported, so that one can go from one article to another, using cross references
 * hiding / showing different parts of dictionary articles (e.g. etymology, examples, homonyms, synonyms, etc.)
 
 Whether to build one app for each language (containing dictionaries to and from that language), or build one language with all dictionaries installed is presently left unspecified. In any case it must be possible to turn off dictionaries and language pairs the user is not interested in.
