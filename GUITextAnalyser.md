@@ -8,7 +8,7 @@
     * it should be possible to copy the displayed analysis in a suitable format
       (specified in the app settings), so that one can easily paste it into
       other applications, e.g. when writing academic papers
-* analysers/processing pipelines (one pr language) should be automatically
+* analysers/processing pipelines (one per language) should be automatically
   updated via the Páhkat repository
     * does this mean that we need/want a Páhkat client for Linux? Or could it be
       embedded in the GUI app if this is the only use case for Páhkat on Linux?
