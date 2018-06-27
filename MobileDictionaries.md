@@ -8,16 +8,16 @@
 * should use open-source OCR libraries and built-in camera to recognise printed text and provide translations
   * Tesseract? Other open-source OCR libraries?
   * Tesseract needs to be trained on every font, not optimal
-  * see [OCRopus ](https://en.wikipedia.org/wiki/OCRopus) for an alternative
+  * see [OCRopus](https://en.wikipedia.org/wiki/OCRopus) for an alternative
   * instead of an OCR library one can use OS services, if available, e.g. https://developers.google.com/vision/android/text-overview
-* look-up words in text (using morphological analysis (+ disambiguation using libdivvun (XXX ref) if context is available) of input string)
+* look-up words in text (using morphological analysis (+ disambiguation using [libdivvun](https://github.com/divvun/libdivvun) if context is available) of input string)
     * preferably using OS services if available
 * look-up single words / lemmas in the dictionary (standard search)
 * dictionary content updated via a Páhkat repository
     * default: stable channel, check every week
 * the details of the user interface should be worked out in cooperation between Divvun&Giellatekno and the winning tenderer
 * fuzzy match, possibly based on our speller technology, frequency ranked
-* Korp (XXX - kva er Korp? lenke) lookup if corpus for the language is available, and Internet connection is available
+* [Korp](http://gtweb.uit.no/korp/) lookup if corpus for the language is available, and Internet connection is available
 * paradigm/word form generation (off-line, fst-based)
     * key forms
     * full paradigm
@@ -25,7 +25,7 @@
 * speedy, fast lookup of dictionary entries
 * clear and easy-to-read typography
 * easy to use
-* should use the same XML format as the other dictionary platforms as input at build time (but internal representation can of course be different) (XXX - referanse til XML-formatet)
+* should use the same XML format (see [here](https://gtsvn.uit.no/langtech/trunk/words/dicts/scripts/gt_dictionary.dtd) and [here](https://gtsvn.uit.no/langtech/trunk/giella-core/schemas)) as the other dictionary platforms as input (but the app-internal representation of the dictionary can of course be different)
 * support for audio, video, images as part of dictionary entries
 * search history
 * when looking up compound words in text that are not found in the dictionary, the app should analyse the compound word using the fst analyser, and present the articles for the compound constituents. The same goes for derivations.
