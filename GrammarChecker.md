@@ -2,6 +2,8 @@
 
 This subproject should take our grammar checker library and turn it into a functional grammar checker tool for MS Office and Google apps users, resembling the standard MS Office grammar checker as much as possible.
 
+# Deliverables
+
 ## Architecture
 
 The following is a schematic view of the main components of the grammar checker:
@@ -68,34 +70,39 @@ The interface should also follow whatever the REST/GraphQL subproject settles on
 
 * MS Office 2016 and newer, MS Office 365
     * Windows, macOS, iOS (iPad only)
+        * Android is *not* a target platform, since Android MS Office doesn't allow add-ons (further details [here](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-in-availability)). In the case that MS Office for Android will be changed to allow add-ons, Android will be added to the list of target platforms.
 * Google apps
     * Windows, macOS, ChromeOS, iOS (iPad only), Android
-
-## Tender requirements
-
-* solid C++ programming experience
-* solid JavaScript and NodeJS or similar experience
-* solid macOS programming experience
-* solid Windows programming experience
-
-**solid** = reference to at least five independent projects involving the programming language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work — XXX
-* experience with language technology projects
-* realistic and sound project plan — XXX
 
 ## Acceptance requirements
 
 Before delivery of final version:
 
 * user documentation
-* passing all defined tests, on both Windows and macOS
+* passing all defined tests, on all supported platforms
 * all code in Github
 * code must be language independent
 * MS Office integration must work with all language codes, including such codes that are not known to MS Office
-* all functionality of libdivvun compiled as a grammar checker must be available via a user friendly and functional User Interface
-* the code must follow established styles and linters for the programming language in question
+* all functionality of libdivvun compiled as a grammar checker must be available via a user friendly and functional Graphical User Interface
+* the code must follow established styles and linters for the programming languages in question
 * the code must pass code review by the Divvun group
 * the grammar checker must function according to specifications
+
+# Tender
+
+## Tender requirements
+
+* solid C++ programming experience
+* solid JavaScript and NodeJS or similar experience
+* solid macOS, Windows, Android and iOS programming experience
+* solid GUI programming and design experience
+
+**solid** = reference to at least five independent projects involving the programming language or platform in question.
+
+## Subproject selection criteria
+
+* experience with developing web plugins, the more the better
+* realistic and sound project plan, containing at least:
+    * timetable with milestones and planned final delivery date
+    * clearly identified tasks for both the tenderer and the Divvun group
+    * a layout of how to test the web plugin, both functionality and GUI design
