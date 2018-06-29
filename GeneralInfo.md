@@ -6,7 +6,7 @@ The Divvun group can — at its own sole discretion — decide to not purchase a
 
 **Note:** Everything else being equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects. Also, more experience in the relevant programming languages or topic at hand is preferred over less experience. This can be documented e.g. as a list of past projects, with a reference person with contact information for each such project.
 
-Also, experience with natural language processing, and Sámi and other minority languages especially is preferable.
+Also, experience with natural language processing, and Sámi and other minority languages especially is preferable, although not a requirement.
 
 ## Tender requirements
 
