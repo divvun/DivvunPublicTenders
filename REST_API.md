@@ -2,6 +2,8 @@
 
 The Divvun group (and the Giellatekno group we cooperate with) wants to establish a unified REST or GraphQL API to access our web services.
 
+# Deliverables
+
 The main objective is to get consultancy and active support in designing a good
 API, and getting help with setting things up in a robust and maintainable way.
 
@@ -23,6 +25,16 @@ Services in the planning:
 * speech synthesis
 * loan word adaption and inflection
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* API documentation
+* server and service setup documentation
+* working REST/GraphQL services
+
+# Tender
+
 ## Requirements
 
 * documented API design experience
@@ -33,11 +45,3 @@ Services in the planning:
 ## Subproject selection criteria
 
 * experience with similar work
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* API documentation
-* server and service setup documentation
-* working REST/GraphQL services

@@ -1,5 +1,7 @@
 # Dictionary apps for mobile phones and pads
 
+# Deliverables
+
 ## Targeted features
 
 * must support iOS and Android
@@ -41,6 +43,14 @@ See also [Mothertoungues.org](http://mothertongues.org/), and the dictionary app
 * iOS 9+
 * Android 5+
 
+## Acceptance requirements
+
+* technical documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
+
 ## Tender requirements
 
 * solid iOS and Android programming experience
@@ -51,14 +61,6 @@ See also [Mothertoungues.org](http://mothertongues.org/), and the dictionary app
 ## Subproject selection criteria
 
 * experience with dictionary app development
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* technical documentation
-* passing all defined tests
-* all code in Github
 
 <!--
 Andre merknader

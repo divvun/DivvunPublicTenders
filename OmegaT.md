@@ -1,6 +1,10 @@
 # OmegaT integration
 
-OmegaT is a translator's workbench, with support for a lot of tools to improve translation speed and quality. But most supported tools are not according to our technologies or needs. We thus want our tools to be integrated smoothly and in such a way that we can deliver a package with everything installed. We want the following integrated:
+OmegaT is a translator's workbench, with support for a lot of tools to improve translation speed and quality. But most supported tools are not according to our technologies or needs. We thus want our tools to be integrated smoothly and in such a way that we can deliver a package with everything installed.
+
+# Deliverables
+
+We want the following integrated:
 
 * spellers (hfst-ospell + zhfst files, or any other lib that can read zhfst files)
 * grammar checkers (as an alternative or complement to spellers)
@@ -18,6 +22,14 @@ OmegaT is a translator's workbench, with support for a lot of tools to improve t
 * macOS 10.8+
 * Linux
 
+## Acceptance requirements
+
+* user documentation
+* a working setup with a Páhkat repository
+* working installation packages for all components
+
+# Tender
+
 ## Tender requirements
 
 * solid Java experience
@@ -29,10 +41,3 @@ OmegaT is a translator's workbench, with support for a lot of tools to improve t
 ## Subproject selection criteria
 
 * experience with similar work
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* a working setup with a Páhkat repository, and working installation packages for all components

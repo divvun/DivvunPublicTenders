@@ -4,6 +4,8 @@ The present iOS Keyboard code is based on [Tasty Imitation Keyboard](https://git
 
 This sub-project should be run after the [mobile keyboard speller](MobileSpell.md) sub-project. It is important to get the mobile keyboard spellers out as soon as possible using the present codebase, thus the rewrite must happen thereafter.
 
+# Deliverables
+
 ## Targeted features
 
 * functionally the same as the code at the end of the [mobile keyboard speller](MobileSpell.md) subproject:
@@ -21,6 +23,16 @@ This sub-project should be run after the [mobile keyboard speller](MobileSpell.m
 
 * iOS 10+
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* technical documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
+
 ## Tender requirements
 
 * solid iOS programming experience
@@ -31,11 +43,3 @@ This sub-project should be run after the [mobile keyboard speller](MobileSpell.m
 ## Subproject selection criteria
 
 * experience with mobile keyboard development
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* technical documentation
-* passing all defined tests
-* all code in Github

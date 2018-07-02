@@ -1,5 +1,7 @@
 # Mobile keyboard spell checker enhancements
 
+# Deliverables
+
 ## Targeted features
 
 * spell checking for the mobile keyboards (iOS and Android) using the [Rust hfst-ospell library](https://github.com/bbqsrc/hfst-ospell-rs)
@@ -15,6 +17,16 @@
 * iOS 8+
 * Android 5+
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* user documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
+
 ## Tender requirements
 
 * solid Rust programming experience
@@ -26,11 +38,3 @@
 ## Subproject selection criteria
 
 * experience with similar work
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github

@@ -13,7 +13,7 @@ All dictionaries and term collections are stored in a common XML format.
 
 The present solution is using the [eXist indexed XML database](http://exist-db.org/) as a backend, and a Javascript web app as a front end. The present code for the whole system is available in [our svn repository](https://gtsvn.uit.no/langtech/trunk/apps/risten2/).
 
-## Targets
+# Deliverables
 
 The following areas should be addressed by the tender:
 
@@ -66,6 +66,18 @@ The new implementation should provide the following existing functionality:
 
 Part of the project is to develop an MS Office web plugin that allows searching and looking up dictionary entries and translations from within MS Office. See [this Bugzilla entry](http://giellatekno.uit.no/bugzilla/show_bug.cgi?id=2443) for some more details. The plugin should use the same REST/GraphQL interface as the stand-alone web app.
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* technical documentation
+* web app accepted by the Norwegian Sámi Parliament
+* passing all defined tests
+* all code in Github or svn
+* web app according to targets and specifications in this document
+
+# Tender
+
 ## Tender requirements
 
 * solid XQuery or alternate backend query language experience
@@ -78,13 +90,3 @@ Part of the project is to develop an MS Office web plugin that allows searching 
 ## Subproject selection criteria
 
 * experience with similar work
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* technical documentation
-* web app accepted by the Norwegian Sámi Parliament
-* passing all defined tests
-* all code in Github or svn
-* web app according to targets and specifications in this document

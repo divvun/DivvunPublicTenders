@@ -1,5 +1,7 @@
 # Open Source TTS
 
+# Deliverables
+
 ## Platforms to support
 
 * macOS
@@ -53,6 +55,16 @@ TTS engine and TTS voices should be updated via a Páhkat repository & the Páhk
 * macOS 10.8+
 * Linux
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* user documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
+
 ## Tender requirements
 
 * solid macOS programming experience
@@ -63,11 +75,3 @@ TTS engine and TTS voices should be updated via a Páhkat repository & the Páhk
 ## Subproject selection criteria
 
 * none
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github

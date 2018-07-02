@@ -1,5 +1,7 @@
 # System wide spelling checkers
 
+# Deliverables
+
 ## Targets
 
 * macOS, based on
@@ -26,6 +28,17 @@ This subproject may possibly be extended to cover grammar checking, by integrati
 * Windows 8.1+
 * macOS 10.10+
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* user documentation
+* passing all defined tests
+* all code in Github
+* installable & working spellers, both as independent installers and through a Páhkat repository
+
+# Tender
+
 ## Tender requirements
 
 * solid macOS programming experience
@@ -36,12 +49,3 @@ This subproject may possibly be extended to cover grammar checking, by integrati
 ## Subproject selection criteria
 
 * experience with similar work
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
-* installable & working spellers, both as independent installers and through a Páhkat repository

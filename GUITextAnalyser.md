@@ -1,5 +1,7 @@
 # Graphical text analysis application for linguists
 
+# Deiverables
+
 ## Basic features of the app
 * paste text, get analysed text in a different window/pane:
     * syntactic tree structure/dependency tree
@@ -68,6 +70,16 @@ Linguists and researchers wanting to use our analysis tools without having to co
 * macOS 10.8+
 * Linux
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* user documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
+
 ## Tender requirements
 
 * solid C/C++ experience
@@ -79,11 +91,3 @@ Linguists and researchers wanting to use our analysis tools without having to co
 ## Subproject selection criteria
 
 * experience with application development for Linux, macOS and Windows
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
