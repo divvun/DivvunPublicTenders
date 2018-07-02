@@ -4,6 +4,8 @@
 * target platforms: iOS and Android
 * possibly in cooperation with the Hfst team at Helsinki University and/or a development team in Canada, organised through AltLab at the University of Alberta
 
+# Deliverables
+
 ## Word completion
 
 * some sort of lemma, morphology and word form frequency weighting
@@ -17,10 +19,24 @@ Probably something along the following lines:
 * trigram model of word forms
 * trigram model of lemma / POS / inflections
 
+##Trigger
+
+The word completion should be automatically applied when the user taps the space key.
+
 ## Compatibility requirements
 
 * iOS 9+
 * Android 5+
+
+## Acceptance requirements
+
+Before delivery of final version:
+
+* user documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
 
 ## Tender requirements
 
@@ -32,12 +48,4 @@ Probably something along the following lines:
 
 ## Subproject selection criteria
 
-* experience with similar work — XXX
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+* experience with mobile phone keyboard development and spelling checker integration on the relevant platform
