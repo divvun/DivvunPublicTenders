@@ -1,5 +1,7 @@
 # Extensions to the keyboard infra & improved CLDR support
 
+# Deliverables
+
 ## Locale support
 * support for specifying locale data in a simple (yaml) format
 * export locale data in CLDR format
@@ -40,6 +42,16 @@ A degraded experience is acceptable where older operating systems pose difficult
 * Consolidate all automatically downloaded dependencies (excluding git dependencies) in kbdgen to use a Páhkat repository
     * allow macOS hosts to install WindowsInstaller packages using Wine
 
+## Acceptance requirements
+
+Before delivery of final version:
+
+* user documentation
+* passing all defined tests
+* all code in Github
+
+# Tender
+
 ## Tender requirements
 
 * solid Python experience
@@ -52,11 +64,3 @@ A degraded experience is acceptable where older operating systems pose difficult
 ## Subproject selection criteria
 
 * experience with similar work
-
-## Acceptance requirements
-
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
