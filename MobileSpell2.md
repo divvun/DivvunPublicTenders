@@ -8,6 +8,8 @@ This subproject builds on the work done for [basic speller support](MobileSpell.
 
 * speller files updated via a Páhkat repository; no speller files are included at build time
 * automatically maintained user dictionary:
+    * unknowns not corrected into a candidate list
+    * unknowns left uncorrected a second time stored in user dictionary, and suggested prior to anything else for similar input
     * user dictionary should be visible and editable in dictionary app, including option to upload to Divvun for inclusion of new words (that would also require storing one word before and after, or the two preceding words, to give a minimum of context for the use of the word - this can also help us build a trigram of word usage for word prediction)
 
 ## Supported languages

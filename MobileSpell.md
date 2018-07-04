@@ -11,10 +11,6 @@ The main objective is to deliver spell checking for the Sámi languages fast. Fu
 * spell checking for the mobile keyboards (iOS and Android) using the [Rust hfst-ospell library](https://github.com/bbqsrc/hfst-ospell-rs)
 * generate speller error model for nearby key hits based on keyboard layout
 * speller files are included in the keyboard app at build time
-* automatically maintained user dictionary:
-    * unknowns not corrected into a candidate list
-    * unknowns left uncorrected a second time stored in user dictionary, and suggested prior to anything else for similar input
-
 
 ## Supported languages
 
