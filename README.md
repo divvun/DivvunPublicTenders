@@ -9,7 +9,7 @@ The Divvun public tender in 2018 covers the following components, or sub-project
 Immediate start:
 
 1. [Grammar Checker integration with office apps](GrammarChecker.md)
-1. [Spell checking for mobile keyboards](MobileSpell.md)
+1. [Basic Spell checking for mobile keyboards](MobileSpell.md)
 1. [System wide spelling checkers](SystemSpellCheck.md)
 
 Other projects:
@@ -21,6 +21,7 @@ Other projects:
 * [Web dictionary app](WebDict.md)
 * [Setup Wizards for the Páhkat clients](PahkatSetupWizards.md)
 * [Rewrite of the iOS keyboard code](iOSKeyboardRewrite.md)
+* [Advanced Spell checking for mobile keyboards](MobileSpell2.md)
 * [Graphical analysis app for linguists](GUITextAnalyser.md)
 * [Word completion and prediction](WordCompletionPrediction.md)
 * [Open-source text-to-speech](OpenSourceTSS.md)
