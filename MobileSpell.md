@@ -1,20 +1,31 @@
-# Mobile keyboard spell checker enhancements
+# Basic mobile keyboard spell checker enhancements
+
+This subproject is a minimal update to the existing keyboards for the Sámi languages, to be able to minimally support spell checking as part of the typing experience. It uses the existing codebase, and work done in earlier projects, with minimal additional work to integrate the spell checking functionality.
+
+The main objective is to deliver spell checking for the Sámi languages fast. Further speller enhancements and support for any language is part of a [separate project](MobileSpell2.md).
 
 # Deliverables
 
 ## Targeted features
 
 * spell checking for the mobile keyboards (iOS and Android) using the [Rust hfst-ospell library](https://github.com/bbqsrc/hfst-ospell-rs)
-* speller files updated via a Páhkat repository
 * generate speller error model for nearby key hits based on keyboard layout
+* speller files are included in the keyboard app at build time
 * automatically maintained user dictionary:
     * unknowns not corrected into a candidate list
     * unknowns left uncorrected a second time stored in user dictionary, and suggested prior to anything else for similar input
-    * user dictionary should be visible and editable in dictionary app, including option to upload to Divvun for inclusion of new words (that would also require storing one word before and after, or the two preceding words, to give a minimum of context for the use of the word - this can also help us build a trigram of word usage for word prediction)
+
+
+## Supported languages
+
+* North Sámi (sme)
+* Lule Sámi (smj)
+* South Sámi (sma)
+* Inari Sámi (smn)
 
 ## Compatibility requirements
 
-* iOS 8+
+* iOS 9+
 * Android 5+
 
 ## Acceptance requirements
