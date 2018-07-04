@@ -33,7 +33,8 @@ Before delivery of final version:
 ## Tender requirements
 
 * solid macOS programming experience
-* solid Windows & Inno Setup programming experience
+* solid Windows programming experience
+* solid Inno Setup programming experience
 
 **solid** = reference to at least five independent projects involving the language or platform in question.
 
