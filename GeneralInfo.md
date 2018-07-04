@@ -14,6 +14,8 @@ Also, experience with natural language processing, and Sámi and other minority 
 * audited financial reports and tax reports for the last fiscal year
 * additional requirements listed for each subproject
 
+**solid** = reference to at least five independent projects involving the language or platform in question.
+
 ## Acceptance requirements
 
 Before delivery of the final version of each subproject:
