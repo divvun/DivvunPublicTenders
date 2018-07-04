@@ -16,6 +16,32 @@ Also, experience with natural language processing, and Sámi and other minority 
 
 **solid** = reference to at least five independent projects involving the language or platform in question.
 
+| Sub-project                | C/C++ |  Rust | Python | iOS   | Android | macOS | Windows |
+| -------------------------- |:-----:|:-----:|:------:|:-----:|:-------:|:-----:|:-------:|
+| Support work               |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| __________________________ |  ___  |  ___  |  ____  |  ___  |  _____  |  ___  |  _____  |
+| Grammar Check MS & Google  |   x   |   -   |   -    |   -   |   -     |   -   |   -     | 
+| Basic Spell checking       |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| System wide spelling       |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| __________________________ |  ___  |  ___  |  ____  |  ___  |  _____  |  ___  |  _____  |
+| Grammar Check LO and mac   |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Keyboard infra xtensions   |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Dictionary app for phones  |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| REST/GraphQL API           |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| OmegaT integration         |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Web dictionary app         |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Páhkat Setup Wizards       |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Rewrite of iOS keyboard    |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Advanced Spell checking    |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Graphical analysis app     |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Word compl. and prediction |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Open-source text-to-speech |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+
+## Other must-have requirements
+
+* building mobile keyboards and keyboard apps
+* building desktop keyboards
+
 ## Acceptance requirements
 
 Before delivery of the final version of each subproject:
