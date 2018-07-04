@@ -61,9 +61,10 @@ Before delivery of final version:
 
 ## Tender requirements
 
-* solid Rust programming experience
-* solid iOS programming experience
-* solid Android programming experience
+* solid C/C++ programming experience
+* solid Python programming experience
+* solid macOS programming experience
+* solid Windows programming experience
 
 **solid** = reference to at least five independent projects involving the language or platform in question.
 
