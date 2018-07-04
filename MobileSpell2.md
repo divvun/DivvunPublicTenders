@@ -1,4 +1,4 @@
-# Mobile keyboard spell checker enhancements
+# Advanced mobile keyboard spell checker enhancements
 
 # Deliverables
 
