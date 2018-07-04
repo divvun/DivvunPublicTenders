@@ -8,12 +8,13 @@ The Divvun public tender in 2018 covers the following components, or sub-project
 
 Immediate start:
 
-1. [Grammar Checker integration with office apps](GrammarChecker.md)
+1. [Grammar Checker integration with MS Office and Google apps](GrammarChecker.md)
 1. [Basic Spell checking for mobile keyboards](MobileSpell.md)
 1. [System wide spelling checkers](SystemSpellCheck.md)
 
 Other projects:
 
+* [Grammar Checker integration with LibreOffice and macOS](GrammarCheckerLOmacOS.md)
 * Extensions to the [keyboard infra](CLDRSupport.md)
 * [Dictionary app for mobile phones](MobileDictionaries.md)
 * [REST/GraphQL API Consultancy](REST_API.md)
