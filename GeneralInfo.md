@@ -16,26 +16,28 @@ Also, experience with natural language processing, and Sámi and other minority 
 
 **solid** = reference to at least five independent projects involving the language or platform in question.
 
-| Sub-project                | C/C++ |  Rust | Python | iOS   | Android | macOS | Windows |
-| -------------------------- |:-----:|:-----:|:------:|:-----:|:-------:|:-----:|:-------:|
-| Support work               |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| __________________________ |  ___  |  ___  |  ____  |  ___  |  _____  |  ___  |  _____  |
-| Grammar Check MS & Google  |   x   |   -   |   -    |   -   |   -     |   -   |   -     | 
-| Basic Spell checking       |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| System wide spelling       |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| __________________________ |  ___  |  ___  |  ____  |  ___  |  _____  |  ___  |  _____  |
-| Grammar Check LO and mac   |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Keyboard infra xtensions   |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Dictionary app for phones  |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| REST/GraphQL API           |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| OmegaT integration         |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Web dictionary app         |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Páhkat Setup Wizards       |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Rewrite of iOS keyboard    |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Advanced Spell checking    |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Graphical analysis app     |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Word compl. and prediction |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
-| Open-source text-to-speech |   x   |   -   |   -    |   -   |   -     |   -   |   -     |
+| Sub-project                | C/C++ |  Rust | Python |(Node)JS|  GUI  | iOS   | Android | macOS | Windows | Other |
+| -------------------------- |:-----:|:-----:|:------:|:------:|:-----:|:-----:|:-------:|:-----:|:-------:|:-----:|
+| Support work               |   x   |   x   |   x    |   -    |   -   |   x   |   x     |   x   |   x     |   -   |
+|____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
+| Grammar Check MS & Google  |   x   |   -   |   -    |   x    |   x   |   x   |   x     |   x   |   x     |   -   | 
+| Basic M Spell checking     |   -   |   x   |   -    |   -    |   -   |   x   |   x     |   -   |   -     |   -   |
+| System wide spelling       |   x   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
+|____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
+| Grammar Check LO and mac   |   x   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
+| Keyboard infra xtensions   |   -   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
+| Dictionary app for phones  |   x   |   -   |   -    |   -    |   x   |   x   |   x     |   -   |   -     | Java  |
+| REST/GraphQL API           |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   -   |   -     |API/RST|
+| OmegaT integration         |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     | Java  |
+| Web dictionary app         |   -   |   -   |   -    |   x    |   x   |   -   |   -     |   -   |   -     |XQR,wbp|
+| Páhkat Setup Wizards       |   x   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     | Inno  |
+| Rewrite of iOS keyboard    |   -   |   -   |   -    |   -    |   x   |   x   |   -     |   -   |   -     | Swift |
+| Advanced M Spell checking  |   x   |   x   |   -    |   -    |   x   |   x   |   x     |   -   |   -     | Swift |
+| Graphical analysis app     |   x   |   -   |   -    |   -    |   x   |   -   |   -     |   x   |   x     | Linux |
+| Word compl. and prediction |   x   |   x   |   -    |   -    |   -   |   x   |   x     |   -   |   -     | Java  |
+| Open-source text-to-speech |   x   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
+|____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
+| Together, each skill       |  10   |   4   |   3    |   2    |   6   |   7   |   6     |   9   |   9     |   -   |
 
 ## Other must-have requirements
 
