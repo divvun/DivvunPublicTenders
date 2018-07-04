@@ -19,6 +19,7 @@ Also, experience with natural language processing, and Sámi and other minority 
 | Sub-project                | C/C++ |  Rust | Python |(Node)JS|  GUI  | iOS   | Android | macOS | Windows | Other |
 | -------------------------- |:-----:|:-----:|:------:|:------:|:-----:|:-----:|:-------:|:-----:|:-------:|:-----:|
 | Support work               |   x   |   x   |   x    |   -    |   -   |   x   |   x     |   x   |   x     |   -   |
+| CI / CD                    |   x   |   -   |   -    |   -    |   -   |   x   |   x     |   x   |   x     | CI/CD |
 |____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
 | Grammar Check MS & Google  |   x   |   -   |   -    |   x    |   x   |   x   |   x     |   x   |   x     |   -   | 
 | Basic M Spell checking     |   -   |   x   |   -    |   -    |   -   |   x   |   x     |   -   |   -     |   -   |
@@ -37,7 +38,7 @@ Also, experience with natural language processing, and Sámi and other minority 
 | Word compl. and prediction |   x   |   x   |   -    |   -    |   -   |   x   |   x     |   -   |   -     | Java  |
 | Open-source text-to-speech |   x   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
 |____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
-| Together, each skill       |  10   |   4   |   3    |   2    |   6   |   7   |   6     |   9   |   9     |   -   |
+| Together, each skill       |  11   |   4   |   3    |   2    |   6   |   8   |   7     |  10   |   10    |   -   |
 
 ## Other must-have requirements
 
