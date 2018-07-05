@@ -52,9 +52,8 @@ Other must-have requirements:
 * solid C/C++ programming experience
 * solid Windows, Android, macOS and iOS programming experience
 * solid GUI design experience
-* solid experience with natural language technology and finite state machines and transducers
-* experience with working with minority languages
-* experience with working with multiple natural languages in one and the same project
+* experience with natural language technology and finite state machines and transducers
+* experience with working with minority languages and/or multiple natural languages
 
 #### Should-have requirements (B-krav)
 
