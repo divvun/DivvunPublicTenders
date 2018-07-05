@@ -14,7 +14,7 @@ Also, experience with natural language processing, and Sámi and other minority 
 * audited financial reports and tax reports for the last fiscal year
 * additional requirements listed for each subproject
 
-**solid** = reference to at least five independent projects involving the language or platform in question.
+**solid** = reference to at least five (three?) independent projects involving the language or platform in question.
 
 | Sub-project                | C/C++ |  Rust | Python |(Node)JS|  GUI  | iOS   | Android | macOS | Windows | Other |
 | -------------------------- |:-----:|:-----:|:------:|:------:|:-----:|:-----:|:-------:|:-----:|:-------:|:-----:|
@@ -40,10 +40,44 @@ Also, experience with natural language processing, and Sámi and other minority 
 |____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
 | Together, each skill       |  11   |   4   |   3    |   2    |   6   |   8   |   7     |  10   |   10    |   -   |
 
-## Other must-have requirements
+Other must-have requirements:
 
 * building mobile keyboards and keyboard apps
 * building desktop keyboards
+
+### Summary of the requirements table and other requirements
+
+#### Must-have requirements (A-krav)
+
+* solid C/C++ programming experience
+* solid Windows, Android, macOS and iOS programming experience
+* solid GUI design experience
+* solid experience with natural language technology and finite state machines and transducers
+* experience with working with minority languages
+* experience with working with multiple natural languages in one and the same project
+
+#### Should-have requirements (B-krav)
+
+The more the better - this will influence the tender decision:
+
+* solid mobile keyboards and keyboard apps programming experience
+* solid desktop keyboards programming experience
+* solid Objective C/Swift programming experience
+* solid Rust programming experience
+* solid Python programming experience
+* solid Java programming experience
+
+#### Preferable requirements (C-krav)
+
+Also the more the better, and will influence the tender decision, but to a
+lesser degree than the previous section.
+
+* solid NodeJS and JavaScript programming experience
+* solid Inno installer programming experience
+* solid Linux programming experience
+* solid API & REST design experience
+* solid XQuery programming experience
+* solid webapp programming experience
 
 ## Acceptance requirements
 
