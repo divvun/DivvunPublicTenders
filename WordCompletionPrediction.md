@@ -19,7 +19,9 @@ Probably something along the following lines:
 * trigram model of word forms
 * trigram model of lemma / POS / inflections
 
-##Trigger
+Or a neural network of some sort, trained on relevant material.
+
+## Trigger
 
 The word completion should be automatically applied when the user taps the space key.
 
