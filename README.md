@@ -4,10 +4,11 @@ The Divvun group at UiT The Arctic University of Norway is extending and improvi
 
 The Divvun public tender in 2018 covers the following components, or sub-projects, further specified in the linked documents, roughly in priority order. The subprojects are grouped in three: one maintenance part, three projects with immediate start, and projects with later startup dates.
 
-Maintenance:
+Maintenance & infrastructure:
 
 * [Support work](SupportWork.md) for existing codebase in Github
 * [Continuous Integration and Delivery](ContinuousIntegrationAndDelivery.md)
+* [REST/GraphQL API Consultancy](REST_API.md)
 
 Immediate start:
 
@@ -20,7 +21,6 @@ Other projects:
 * [Grammar Checker integration with LibreOffice and macOS](GrammarCheckerLOmacOS.md)
 * Extensions to the [keyboard infra](CLDRSupport.md)
 * [Dictionary app for mobile phones](MobileDictionaries.md)
-* [REST/GraphQL API Consultancy](REST_API.md)
 * [OmegaT integration](OmegaT.md)
 * [Web dictionary app](WebDict.md)
 * [Setup Wizards for the Páhkat clients](PahkatSetupWizards.md)
