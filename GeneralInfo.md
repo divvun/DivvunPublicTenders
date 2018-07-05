@@ -95,6 +95,10 @@ Before delivery of the final version of each subproject:
 * the code must follow linting standards agreed upon at contract signing time, or a specified time short thereafter
 * further acceptance requirements may be specified in each subproject
 
+## Supported human languages
+
+All tools should by definition support any human language that can be identified with a [BCP47](https://tools.ietf.org/html/bcp47) code, unless otherwise specified.
+
 ## Copyright and license
 
 * All code should have an open licence selected by Divvun
