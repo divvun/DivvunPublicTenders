@@ -87,22 +87,3 @@ Before delivery of final version:
 * the code must follow established styles and linters for the programming languages in question
 * the code must pass code review by the Divvun group
 * the grammar checker must function according to specifications
-
-# Tender
-
-## Tender requirements
-
-* solid C++ programming experience
-* solid JavaScript and NodeJS or similar experience
-* solid macOS, Windows, Android and iOS programming experience
-* solid GUI programming and design experience
-
-**solid** = reference to at least five independent projects involving the programming language or platform in question.
-
-## Subproject selection criteria
-
-* experience with developing web plugins, the more the better
-* realistic and sound project plan, containing at least:
-    * timetable with milestones and planned final delivery date
-    * clearly identified tasks for both the tenderer and the Divvun group
-    * a layout of how to test the web plugin, both functionality and GUI design

@@ -45,7 +45,7 @@ Any language that can be identified with a [BCP47](https://tools.ietf.org/html/b
 
 ## Compatibility requirements
 
-* macOS 10.8+
+* macOS 10.10+
 * Windows 7+ (LibreOffice integration only)
 
 ## Acceptance requirements
@@ -56,18 +56,3 @@ Before delivery of final version:
 * technical documentation
 * passing all defined tests
 * all code in Github
-
-# Tender
-
-## Tender requirements
-
-* solid C/C++ programming experience
-* solid Python programming experience
-* solid macOS programming experience
-* solid Windows programming experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work

@@ -4,22 +4,21 @@ It is possible to submit offers for a single subproject, or some subprojects, bu
 
 The Divvun group can — at its own sole discretion — decide to not purchase a given subproject from any tenderer. The final set of subprojects to actually go forward with is decided single-handedly by the Divvun group.
 
-**Note:** Everything else being equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects. Also, more experience in the relevant programming languages or topic at hand is preferred over less experience. This can be documented e.g. as a list of past projects, with a reference person with contact information for each such project.
-
-Also, experience with natural language processing, and Sámi and other minority languages especially is preferable, although not a requirement.
+**Note:** Everything else being equal, offers covering everything will be preferred over offers for parts of the tender, and offers covering more subprojects will be preferred over offers covering fewer subprojects. Also, more experience in the relevant programming languages or topic at hand is preferred over less experience. This can be documented e.g. as a list of past projects, with a reference person with contact information for each such project. Minimum number of reference projects is specified below.
 
 ## Tender requirements
 
-* solid experience in the programming languages and other relevant skills needed for each subproject; solid means experience from at least five projects involving the topic at hand and the relevant programming languages
+* solid experience in the programming languages and other relevant skills needed (see detailed requirements list below)
 * audited financial reports and tax reports for the last fiscal year
-* additional requirements listed for each subproject
+* additional requirements may be specified for some subprojects
 
-**solid** = reference to at least five (three?) independent projects involving the language or platform in question.
+**solid** = reference to at least five (project lead)/three (team members) independent projects involving the language or platform in question.
 
 | Sub-project                | C/C++ |  Rust | Python |(Node)JS|  GUI  | iOS   | Android | macOS | Windows | Other |
 | -------------------------- |:-----:|:-----:|:------:|:------:|:-----:|:-----:|:-------:|:-----:|:-------:|:-----:|
 | Support work               |   x   |   x   |   x    |   -    |   -   |   x   |   x     |   x   |   x     |   -   |
 | CI / CD                    |   x   |   -   |   -    |   -    |   -   |   x   |   x     |   x   |   x     | CI/CD |
+| REST/GraphQL API           |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   -   |   -     |API/RST|
 |____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
 | Grammar Check MS & Google  |   x   |   -   |   -    |   x    |   x   |   x   |   x     |   x   |   x     |   -   | 
 | Basic M Spell checking     |   -   |   x   |   -    |   -    |   -   |   x   |   x     |   -   |   -     |   -   |
@@ -28,7 +27,6 @@ Also, experience with natural language processing, and Sámi and other minority 
 | Grammar Check LO and mac   |   x   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
 | Keyboard infra extensions  |   -   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
 | Dictionary app for phones  |   x   |   -   |   -    |   -    |   x   |   x   |   x     |   -   |   -     | Java  |
-| REST/GraphQL API           |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   -   |   -     |API/RST|
 | OmegaT integration         |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     | Java  |
 | Web dictionary app         |   -   |   -   |   -    |   x    |   x   |   -   |   -     |   -   |   -     |XQR,wbp|
 | Páhkat Setup Wizards       |   x   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     | Inno  |
@@ -44,6 +42,13 @@ Other must-have requirements:
 
 * building mobile keyboards and keyboard apps
 * building desktop keyboards
+
+For the "immediate start" group, the following should also be submitted:
+
+* realistic and sound project plan, containing at least:
+    * timetable with milestones and planned final delivery date
+    * clearly identified tasks for both the tenderer and the Divvun group
+    * a layout of how to test the deliverables, both functionality and GUI design
 
 ### Summary of the requirements table and other requirements
 

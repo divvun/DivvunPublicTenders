@@ -32,16 +32,3 @@ Before delivery of final version:
 * API documentation
 * server and service setup documentation
 * working REST/GraphQL services
-
-# Tender
-
-## Requirements
-
-* documented API design experience
-* solid REST or GraphQL experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work

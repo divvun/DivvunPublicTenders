@@ -50,17 +50,6 @@ Before delivery of final version:
 * passing all defined tests
 * all code in Github
 
-# Tender
+# Tender requirements
 
-## Tender requirements
-
-* solid Python experience
-* solid macOS programming experience
-* solid Windows programming experience
 * documented knowledge about locales and keyboards in Windows, macOS and other relevant platforms, in addition to CLDR
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work

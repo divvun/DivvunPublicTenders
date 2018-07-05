@@ -31,17 +31,3 @@ Before delivery of final version:
 * user documentation
 * passing all defined tests
 * all code in Github
-
-# Tender
-
-## Tender requirements
-
-* solid Rust programming experience
-* solid iOS programming experience
-* solid Android programming experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work

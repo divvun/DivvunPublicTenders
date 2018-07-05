@@ -30,16 +30,3 @@ Before delivery of final version:
 * technical documentation
 * passing all defined tests
 * all code in Github
-
-# Tender
-
-## Tender requirements
-
-* solid iOS programming experience
-* solid iPhone and iPad UI design experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with mobile keyboard development

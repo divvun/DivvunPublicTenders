@@ -21,7 +21,7 @@ Both the Windows and macOS API's for system-wide speller integration are public.
 * [Windows](https://msdn.microsoft.com/en-us/library/windows/desktop/hh869748.aspx)
 * [macOS](https://developer.apple.com/documentation/appkit/nsspellchecker)
 
-This subproject may possibly be extended to cover grammar checking, by integrating already existing grammar checker code with the spelling checker API (and on macOS: the grammar checker API).
+This subproject may possibly be extended to cover grammar checking, by integrating already existing grammar checker code with the spelling checker API (and on macOS: the grammar checker API). See further details in the [grammar checker integration with LibreOffice and macOS](GrammarCheckerLOmacOS.md) subproject.
 
 ## Compatibility requirements
 
@@ -36,16 +36,3 @@ Before delivery of final version:
 * passing all defined tests
 * all code in Github
 * installable & working spellers, both as independent installers and through a Páhkat repository
-
-# Tender
-
-## Tender requirements
-
-* solid macOS programming experience
-* solid Windows programming experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work

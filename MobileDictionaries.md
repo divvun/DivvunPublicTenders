@@ -49,19 +49,6 @@ See also [Mothertoungues.org](http://mothertongues.org/), and the dictionary app
 * passing all defined tests
 * all code in Github
 
-# Tender
-
-## Tender requirements
-
-* solid iOS and Android programming experience
-* solid mobile and pad UI experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with dictionary app development
-
 <!--
 Andre merknader
 ===============

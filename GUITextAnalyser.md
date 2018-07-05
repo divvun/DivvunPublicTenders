@@ -77,17 +77,3 @@ Before delivery of final version:
 * user documentation
 * passing all defined tests
 * all code in Github
-
-# Tender
-
-## Tender requirements
-
-* solid C/C++ experience
-* solid macOS UI programming experience
-* solid Windows UI programming experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with application development for Linux, macOS and Windows
