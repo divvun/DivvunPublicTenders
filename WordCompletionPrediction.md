@@ -19,7 +19,7 @@ Probably something along the following lines:
 * trigram model of word forms
 * trigram model of lemma / POS / inflections
 
-Or a neural network of some sort, trained on relevant material.
+Or a neural network, e.g. [OpenNMT](http://opennmt.net/), trained on relevant material.
 
 ## Trigger
 
