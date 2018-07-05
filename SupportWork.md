@@ -36,10 +36,3 @@ support section of the tender:
 * solid macOS programming experience
 * solid Windows programming experience
 * must have prior experience with building keyboards and keyboard apps
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Selection criteria
-
-* experience with similar work — XX%
-* price in NOK/hour — XX%
