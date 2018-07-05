@@ -4,7 +4,10 @@ The Divvun group at UiT The Arctic University of Norway is extending and improvi
 
 The Divvun public tender in 2018 covers the following components, or sub-projects, further specified in the linked documents, roughly in priority order. The subprojects are grouped in three: one maintenance part, three projects with immediate start, and projects with later startup dates.
 
+Maintenance:
+
 * [Support work](SupportWork.md) for existing codebase in Github
+* [Continuous Integration and Delivery](ContinuousIntegrationAndDelivery.md)
 
 Immediate start:
 
