@@ -75,18 +75,3 @@ Before delivery of final version:
 * passing all defined tests
 * all code in Github or svn
 * web app according to targets and specifications in this document
-
-# Tender
-
-## Tender requirements
-
-* solid XQuery or alternate backend query language experience
-* solid Javascript programming experience
-* solid webapp building experience
-* solid experience with user interface design for various screen sizes
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work
