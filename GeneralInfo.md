@@ -26,7 +26,7 @@ Also, experience with natural language processing, and Sámi and other minority 
 | System wide spelling       |   x   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
 |____________________________|_______|_______|________|________|_______|_______|_________|_______|_________|_______|
 | Grammar Check LO and mac   |   x   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
-| Keyboard infra xtensions   |   -   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
+| Keyboard infra extensions  |   -   |   -   |   x    |   -    |   -   |   -   |   -     |   x   |   x     |   -   |
 | Dictionary app for phones  |   x   |   -   |   -    |   -    |   x   |   x   |   x     |   -   |   -     | Java  |
 | REST/GraphQL API           |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   -   |   -     |API/RST|
 | OmegaT integration         |   -   |   -   |   -    |   -    |   -   |   -   |   -     |   x   |   x     | Java  |
