@@ -27,17 +27,3 @@ We want the following integrated:
 * user documentation
 * a working setup with a Páhkat repository
 * working installation packages for all components
-
-# Tender
-
-## Tender requirements
-
-* solid Java experience
-* solid macOS programming experience
-* solid Windows programming experience
-
-**solid** = reference to at least five independent projects involving the language or platform in question.
-
-## Subproject selection criteria
-
-* experience with similar work
