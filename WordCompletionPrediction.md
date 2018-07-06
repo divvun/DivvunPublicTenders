@@ -23,7 +23,7 @@ Probably something along the following lines:
 * trigram model of word forms
 * trigram model of lemma / POS / inflections
 
-Or a neural network, using e.g. [OpenNMT](http://opennmt.net/), trained on relevant material. See also the text above regaring word completion.
+Or a neural network, using e.g. [OpenNMT](http://opennmt.net/), trained on relevant material. See also the text above regarding word completion.
 
 ## Trigger
 

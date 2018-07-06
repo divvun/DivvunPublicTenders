@@ -1,6 +1,6 @@
 # Maintenance and Support
 
-This part of the tender specifies components elligible for maintenance work
+This part of the tender specifies components eligible for maintenance work
 during the contract period. The contract period for the maintenance and support
 work is **two years**, with an option for two times one year, for a possible total of four years.
 
