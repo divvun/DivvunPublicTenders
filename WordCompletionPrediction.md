@@ -1,8 +1,6 @@
-
 # Word completion and prediction for the Giella mobile keyboards
 
-* target platforms: iOS and Android
-* possibly in cooperation with the Hfst team at Helsinki University and/or a development team in Canada, organised through AltLab at the University of Alberta
+The Divvun group wants to develop further our mobile keyboards, adding word completion and word prediction on top of other functionality. This project should possibly be done in cooperation with the Hfst team at Helsinki University and/or a development team in Canada, organised through AltLab at the University of Alberta. The project depends on [Advanced Spell checking for mobile keyboards](MobileSpell2.md) being completed and delivered.
 
 # Deliverables
 
@@ -15,6 +13,8 @@
 Alternatively, one can train a neural network on existing corpus data (word forms), where each word is split in individual letters, and the neural network then predicts the most likely continuation given the input so far.
 
 Whatever technology is chosen, the task is to integrate that technology with the existing mobile speller code, to make sure that everything works on the technical side. The linguistic side of things is fully the responsibility of the Divvun group.
+
+Appearance and behaviour should be as close to the standard OS keyboard for majority languages as possible.
 
 ## Word prediction
 
@@ -36,8 +36,4 @@ The word completion should be automatically applied when the user taps the space
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

@@ -1,6 +1,12 @@
 # Graphical text analysis application for linguists
 
-# Deiverables
+There is a growing interest in linguistic research on the languages we work with. And although a lot of research can be done using the [Korp web service](http://gtweb.uit.no/korp/), some researchers would like to use their own texts, or perform other types of analyses than what is provided there. Finally, Korp – being a web service – only works with a network connection.
+
+Installing our language packages and all their dependencies is a huge task for most people, and after installation, our tools can still only be used on the command line, giving only one type of output.
+
+We thus want to build a graphical UI app that contains all the necessary machinery to perform linguistic analyses of input text, and which can format the analysis output in several ways according to the user’s choice. It should be easy to extend the output formatting with new formats.
+
+# Deliverables
 
 ## Basic features of the app
 * paste text, get analysed text in a different window/pane:
@@ -12,8 +18,6 @@
       other applications, e.g. when writing academic papers
 * analysers/processing pipelines (one per language) should be automatically
   updated via the Páhkat repository
-    * does this mean that we need/want a Páhkat client for Linux? Or could it be
-      embedded in the GUI app if this is the only use case for Páhkat on Linux?
 * the app is essentially a graphical wrapper around libdivvun + `zcheck` files:
     * text used as input to libdivvun in one pane
     * output appears in the other pane
@@ -54,7 +58,7 @@ See also the
 [Oslo LAP](https://www.mn.uio.no/ifi/english/research/projects/clarino/) web
 app.
 
-## Target user group
+## Target user groups
 
 Linguists and researchers wanting to use our analysis tools without having to compile and set up a large number of different things. This app (obtained via the Páhkat clients) should be a one-stop-get-it-all for researchers interested in the languages in the Giella infra.
 
@@ -72,8 +76,4 @@ Linguists and researchers wanting to use our analysis tools without having to co
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

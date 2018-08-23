@@ -1,5 +1,7 @@
 # Open Source TTS
 
+The Divvun group, in cooperation with the Norwegian Sámi Parliament and Acapela, has developed a North Sámi TTS system. While it is quite possible that we will build TTS systems for other languages using closed-source solutions in the future, we also want an open-source end-to-end solution for a number of reasons, the main reason being to avoid vendor lock-in. It is also likely that there won’t be financial resources to build TTS systems for many of the languages we work with using a commercial engine, and we also want to make our work on speech synthesis easily available to other researchers. Finally, it is also important that we keep building our own expertise and knowledge in this area.
+
 # Deliverables
 
 ## Platforms to support
@@ -28,18 +30,21 @@ part of the work for this section of the tender.
 ## Speech synthesis engine
 
 * must be open source
-* a possible candidate is the [festvox/festival system](http://festvox.org/)
-* another candidate is [Idlak](https://github.com/idlak/idlak)
-* a third candidate is [merlin](https://github.com/CSTR-Edinburgh/merlin)
-    * merlin is only available as a Python version for now, and it is unclear
+* possible candidates
+    * [festvox/festival system](http://festvox.org/)
+    * [Idlak](https://github.com/idlak/idlak)
+    * [merlin](https://github.com/CSTR-Edinburgh/merlin)
+        * merlin is only available as a Python version for now, and it is unclear
       how this could be used outside a research lab
-    * on the other side it seems to be at the front of the research field,
+        * on the other side it seems to be at the front of the research field,
       producing high quality voices
-* a fourth candidate could be [Mimic](https://mycroft.ai/documentation/mimic/)
-* other open-source engines may be suggested
+    * [Mimic](https://mycroft.ai/documentation/mimic/)
+    * other open-source engines may be suggested
+    * also: this field is in constant development, so when this sub-project is started, the options for speech synthesis engines must be re-evaluated
 * the selection of engine must be done in cooperation with Divvun and its
   partners, as the engine used for synthesis must be the same as or compatible
   with the one used for voice generation.
+* the engine should also be compatible with, buildable for and runnable on mobile systems
 
 ## Integration with operating systems
 
@@ -57,8 +62,4 @@ TTS engine and TTS voices should be updated via a Páhkat repository & the Páhk
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

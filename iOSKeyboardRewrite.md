@@ -25,8 +25,4 @@ This sub-project should be run after the [mobile keyboard speller](MobileSpell.m
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* technical documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

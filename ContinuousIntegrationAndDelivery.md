@@ -1,11 +1,6 @@
 # Continuous Integration And Delivery
 
-To improve our delivery frequency and code quality, the Divvun group wants to improve the workflow from source code to delivered products and services by adding Continuous Integration (CI) and Continuous Delivery (CD) to it.
-
-* open source if possible
-* all platforms
-* list of products
-* training of Divvun members to run it by themselves
+To improve our delivery frequency and code quality, the Divvun group wants to improve the workflow from source code to delivered products and services by adding Continuous Integration (CI) and Continuous Delivery (CD) to it. The chosen service(s) should be open source if possible, and can be hosted on an in-house server or at an external service provider. It/they should integrate well with the existing infrastructure used by the Divvun group (as well as others).
 
 A semi-CI (nightly) service for the analysers and spell checkers already exists, with output at [https://apertium.projectjj.com/](https://apertium.projectjj.com/), and operated by [Tino Didriksen](https://stackoverflow.com/cv/tinodidriksen). This subproject should be a complement to that existing service, with an option of replacing it in the future, if need be.
 
@@ -52,22 +47,17 @@ The following should be delivered through their respective, official channels:
 
 ## Deliverables
 
-* working CI and CD services
+* working CI and CD services, either on in-house servers or at external service providers as agreed upon
 * documentation
 * training for select Divvun team members
 
 ## Compatibility requirements
 
-* CI and CD must work for all listed products and services
+* CI and CD must work for all listed products and services, including all supported OS’s (Windows, macOS, Linux, iOS, Android – not all OS’s are relevant for all products and services)
 
 ## Acceptance requirements
 
-* complete documentation
+Before delivery of the final version, the code should meet [the standard requirements](GeneralInfo.md), plus the following:
+
 * working CI and CD services
-* all relevant code in the Divvun group's Github or Subversion repositories
 * training given to relevant persons
-
-## Requirements
-
-* solid CI experience
-* solid CD experience

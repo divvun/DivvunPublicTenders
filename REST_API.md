@@ -1,13 +1,13 @@
 # REST or GraphQL API
 
-The Divvun group (and the Giellatekno group we cooperate with) wants to establish a unified REST or GraphQL API to access our web services.
+The Divvun group (and the Giellatekno group we cooperate with) wants to establish a unified REST and/or GraphQL API to access our web services.
 
 # Deliverables
 
 The main objective is to get consultancy and active support in designing a good
 API, and getting help with setting things up in a robust and maintainable way.
 
-The services we provide is the following (the list is not necessarily complete, the exact list of services to be covered by the API will be worked out together with the tender winning company):
+The services we provide is the following (the list is not necessarily complete, the exact list of services to be covered by the API will be worked out together with the contractor):
 
 * dictionary lookup
 * speller service
@@ -27,8 +27,6 @@ Services in the planning:
 
 ## Acceptance requirements
 
-Before delivery of final version:
+Before delivery of the final version, the code should meet [the standard requirements](GeneralInfo.md), plus the following:
 
-* API documentation
-* server and service setup documentation
 * working REST/GraphQL services

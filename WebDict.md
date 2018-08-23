@@ -1,3 +1,5 @@
+# Web dictionary app
+
 This subproject concerns the possible replacement, upgrade and/or further development of [satni.org](http://satni.org/).
 
 ## Background
@@ -68,10 +70,7 @@ Part of the project is to develop an MS Office web plugin that allows searching 
 
 ## Acceptance requirements
 
-Before delivery of final version:
+Before delivery of the final version, the code should meet [the standard requirements](GeneralInfo.md), plus the following:
 
-* technical documentation
 * web app accepted by the Norwegian Sámi Parliament
-* passing all defined tests
-* all code in Github or svn
 * web app according to targets and specifications in this document

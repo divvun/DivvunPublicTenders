@@ -1,8 +1,6 @@
 # Maintenance and Support
 
-This part of the tender specifies components eligible for maintenance work
-during the contract period. The contract period for the maintenance and support
-work is **two years**, with an option for two times one year, for a possible total of four years.
+This part specifies components eligible for maintenance work during the contract period.
 
 All code covered by the maintenance and support section is stored in
 [Divvun's github](https://github.com/divvun) repositories. The following
@@ -21,7 +19,7 @@ support section of the tender:
     * [Android keyboard app framework](https://github.com/divvun/giella-ime)
 * the [OS-wide mac speller](https://github.com/divvun/macdivvun-service)
 * [testing framework for fst-based morphologies](https://github.com/divvun/morph-test)
-* all new code developed as part of the tender, beyond the maintenance and
-  support work specified as part of the original development work
-* new feature requests for all existing code, and newly developed code after
-  completion.
+
+In addition, all new code developed as part of the tender, beyond the maintenance and support work specified as part of the original development work, falls under this project after delivery, acceptance and project-specific maintenance and support.
+
+This project also covers new feature requests for all existing code as well as newly developed code after completion. And finally, new Divvun code repositories can be added as need be.

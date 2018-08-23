@@ -1,5 +1,7 @@
 # Extensions to the keyboard infra & improved CLDR support
 
+Our present keyboard development infrastructure needs further improvements, especially in the area of CLDR support and support for locale data. This project is intended to provide that.
+
 # Deliverables
 
 ## Locale support
@@ -39,17 +41,8 @@ A degraded experience is acceptable where older operating systems pose difficult
 
 ## General keyboard infra improvements
 
-* Consolidate all automatically downloaded dependencies (excluding git dependencies) in kbdgen to use a Páhkat repository
-    * allow macOS hosts to install WindowsInstaller packages using Wine
+* Consolidate all automatically downloaded dependencies (excluding git dependencies) in kbdgen to use a Páhkat repository, including the Windows targets
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
-
-# Tender requirements
-
-* documented knowledge about locales and keyboards in Windows, macOS and other relevant platforms, in addition to CLDR
+[Standard requirements](GeneralInfo.md).

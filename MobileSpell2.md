@@ -1,4 +1,4 @@
-# Advanced mobile keyboard spell checker enhancements
+# Advanced Spell checking for mobile keyboards
 
 This subproject builds on the work done for [basic speller support](MobileSpell.md) in mobile keyboards, but depends on the [iOS keyboard rewrite](iOSKeyboardRewrite.md). The goal is to deliver a more advanced speller, with universal language support, and automatic download and updates of speller dictionaries.
 
@@ -23,8 +23,4 @@ Any language that can be identified with a [BCP47](https://tools.ietf.org/html/b
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

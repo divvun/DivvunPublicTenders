@@ -24,6 +24,7 @@ We want the following integrated:
 
 ## Acceptance requirements
 
-* user documentation
+Before delivery of the final version, the code should meet [the standard requirements](GeneralInfo.md), plus the following:
+
 * a working setup with a Páhkat repository
 * working installation packages for all components

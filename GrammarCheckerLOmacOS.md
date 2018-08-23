@@ -2,10 +2,11 @@
 
 ## Introduction
 
-This subproject contains two parts:
+This subproject contains two, possibly three parts:
 
 1. LibreOffice integration
-2. macOS integration
+1. macOS integration
+1. Windows integration
 
 ### LibreOffice integration
 
@@ -21,7 +22,11 @@ MacOS has a [grammar checker API](https://developer.apple.com/documentation/foun
 
 There is no default graphical user interface in macOS for configuring the grammar checker. Instead a grammar checker configuration tool has to be built, either as part of the Páhkat GUI client, or as a separate tool. The configuration is stored in a file that is read and used by the grammar checker library, and it should be re-read whenever the grammar checker library detects that it has been changed.
 
-### Common features for LibreOffice and macOS integration
+### Windows integration
+
+Windows does not have a grammar checker API. But it might be possible to deliver a limited grammar checker functionality disguised as a speller, as long as enough context is available via the speller API. If so, also Windows support is part of this project within the limits given by the speller API on Windows.
+
+### Common features for all
 
 Only the general grammar checker library is specific to each host environment (aka API). The linguistic support files are the same, and should be shared. All three components should be installed and automatically updated through a Páhkat repository:
 
@@ -35,9 +40,10 @@ Only the general grammar checker library is specific to each host environment (a
 
 * grammar checking for LibreOffice (macOS and Windows)
 * grammar checking for macOS systemwide
+* possibly grammar checking for Windows systemwide
 * all binary files and linguistic support files downloaded, installed and updated using the Páhkat package manager
-* linguistic support files installed in a shared location (on macOS)
-* configuration tool for the macOS system-wide grammar checker
+* linguistic support files installed in a shared location (on macOS & Windows)
+* configuration tool for the macOS (and Windows) system-wide grammar checker
 
 ## Supported languages
 
@@ -47,12 +53,8 @@ Any language that can be identified with a [BCP47](https://tools.ietf.org/html/b
 
 * macOS 10.10+
 * Windows 7+ (LibreOffice integration only)
+* Windows 8.1+ (system wide grammar checker only)
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* technical documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

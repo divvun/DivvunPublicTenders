@@ -1,5 +1,11 @@
 # Dictionary apps for mobile phones and pads
 
+The Divvun group wants to build a platform for delivering dictionary apps for mobile systems to our users. It is intended to replace our present solution, which requires users to install a third-party dictionary app, and then upload our dictionary content.
+
+In addition to simplifying installation, we also want to build apps that better highlight our strengths both regarding content and linguistic functionality. The apps should be built for easy maintenance, and modularly so that one can easily add new functionality in the future. Also, the code should be written for easy portability (or should be platform independent), so that it will be easy to add support for new platforms if wanted, e.g. macOS, Windows, etc.
+
+It is a primary requirement that the dictionary apps can work without a network connection for all of its basic functionality.
+
 # Deliverables
 
 ## Targeted features
@@ -11,7 +17,7 @@
   * Tesseract? Other open-source OCR libraries?
   * Tesseract needs to be trained on every font, not optimal
   * see [OCRopus](https://en.wikipedia.org/wiki/OCRopus) for an alternative
-  * instead of an OCR library one can use OS services, if available, e.g. https://developers.google.com/vision/android/text-overview
+  * instead of an OCR library one can use OS services, if available, e.g. [https://developers.google.com/vision/android/text-overview](https://developers.google.com/vision/android/text-overview)
 * look-up words in text (using morphological analysis (+ disambiguation using [libdivvun](https://github.com/divvun/libdivvun) if context is available) of input string)
     * preferably using OS services if available
 * look-up single words / lemmas in the dictionary (standard search)
@@ -36,7 +42,7 @@
 
 Whether to build one app for each language (containing dictionaries to and from that language), or build one language with all dictionaries installed is presently left unspecified. In any case it must be possible to turn off dictionaries and language pairs the user is not interested in.
 
-See also [Mothertoungues.org](http://mothertongues.org/), and the dictionary app released by Språkcentrum in Östersund (link forthcoming).
+See also [Mothertoungues.org](http://mothertongues.org/), and the [dictionary app](https://www.sametinget.se/appar/ordbocker) released by Språkcentrum in Östersund.
 
 ## Compatibility requirements
 
@@ -45,9 +51,7 @@ See also [Mothertoungues.org](http://mothertongues.org/), and the dictionary app
 
 ## Acceptance requirements
 
-* technical documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).
 
 <!--
 Andre merknader

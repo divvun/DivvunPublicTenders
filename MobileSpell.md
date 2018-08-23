@@ -2,7 +2,7 @@
 
 This subproject is a minimal update to the existing keyboards for the Sámi languages, to be able to minimally support spell checking as part of the typing experience. It uses the existing codebase, and work done in earlier projects, with minimal additional work to integrate the spell checking functionality.
 
-The main objective is to deliver spell checking for the Sámi languages fast. Further speller enhancements and support for any language is part of a [separate project](MobileSpell2.md).
+The main objective is to deliver spell checking for the Sámi languages fast. Further speller enhancements and support for any language is part of the [Advanced Spell checking for mobile keyboards](MobileSpell2.md) project.
 
 # Deliverables
 
@@ -27,8 +27,4 @@ The main objective is to deliver spell checking for the Sámi languages fast. Fu
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

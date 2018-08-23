@@ -4,11 +4,38 @@ The Divvun group at UiT The Arctic University of Norway is extending and improvi
 
 The Divvun public tender in 2018 covers the following components, or sub-projects, further specified in the linked documents, roughly in priority order. The subprojects are grouped in three: one maintenance part, three projects with immediate start, and projects with later startup dates.
 
-Maintenance & infrastructure:
+This procurement covers the following contract areas:
+
+* Contract area 1: Maintenance and infrastructure
+* Contract area 2: Projects
+
+Contract area 2 consists of several projects. One group of three projects have immediate start-up, and another group of projects with later start-up dates.
+
+#	The content and scope of the procurement
+
+In the following text hyperlinks are provided to external sites for reference, typically to relevant code repositories or documentation that the tenderer should be aware of that is not part of the tender documents.
+
+References to languages is usually only through their ISO 639-3 code: sme = North Sámi, sma = South Sámi, etc.
+
+## Contract area 1: Maintenance & infrastructure
+
+This contract area consists of three subprojects:
 
 * [Support work](SupportWork.md) for existing codebase in Github
 * [Continuous Integration and Delivery](ContinuousIntegrationAndDelivery.md)
 * [REST/GraphQL API Consultancy](REST_API.md)
+
+The exact content of each is described in the linked documents.
+
+What these projects have in common is that the work is a mixture of smaller tasks and consultancy, with no definite end points. The work should be started immediately, and each billable task is ordered after a short discussion between Divvun and the company. An e-mail documenting the task and its expected work amount suffices as documentation.
+
+## Contract area 2: Projects
+
+This contract area consists of several projects. 
+
+The first three projects are included in work package 1. This work package will be awarded to the tenderer which is ranked number 1 for this contract area, and has immediate start-up after contract award. For all other projects, mini competitions will be held, either for separate projects, or in work packages consisting of several projects.
+
+It should be noted that the exact start-up date for the remaining projects is subject to discussions, and that there can be changes to the list of projects, both removals and additions.
 
 Immediate start:
 

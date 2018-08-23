@@ -1,6 +1,6 @@
 # Setup Wizards for the Páhkat clients
 
-This subproject should add a new feature to the Páhkat clients for [Windows](https://github.com/divvun/pahkat-client-windows) and [macOS](https://github.com/divvun/pahkat-client-macos).
+This subproject should add a new feature to the Páhkat clients for [Windows](https://github.com/divvun/pahkat-client-windows) and [macOS](https://github.com/divvun/pahkat-client-macos). The new feature should guide users through a first-time configuration and installation of their wanted languages and tools.
 
 # Deliverables
 
@@ -22,8 +22,4 @@ The new feature is a first-time setup wizard that:
 
 ## Acceptance requirements
 
-Before delivery of final version:
-
-* user documentation
-* passing all defined tests
-* all code in Github
+[Standard requirements](GeneralInfo.md).

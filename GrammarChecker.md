@@ -21,7 +21,7 @@ The front-end code should be based on the
     * running completely server-based is the default (and possibly only) mode when used with Google apps, as the Google apps are only usable when there is a network connection; it still may be useful to run the grammar checker offline along the same line as for the MS Office integration, as that could possibly speed up the grammar checker - the exact behavior needs to be determined at a later point, when speed and other considerations can be tested properly
 * the front-end must query the central server back-end while downloading support files, so that end users don't have to wait for the download to finish before starting the grammar checker
 
-Functional requirements:
+## Functional requirements:
 
 * send and receive a paragraph of text to the locally cached back-end (or over the net to the server, when required as described above), and receive a list of errors such that they can be marked in the source text or highlighted in the grammar checker user interface
 * present correction suggestions containing the following:
@@ -45,9 +45,9 @@ Functional requirements:
 * on supported platforms, the grammar checker should detect language switches to and from supported languages, e.g. when the user switches keyboard language
 * all code must be Unicode safe, with support for all of it, not only the BMP
 
-See a separate document with screen shots and [UI examples](Spesifikasjon.md) for what a possible implementation could look like.
+See a separate document with screen shots and [UI examples](Spesifikasjon.md)[1] for what a possible implementation could look like.
 
-### Targeted platforms/Office versions
+## Targeted platforms/Office versions
 
 * MS Office for Mac
 * MS Office for Windows
@@ -76,14 +76,15 @@ The interface should also follow whatever the REST/GraphQL subproject settles on
 
 ## Acceptance requirements
 
-Before delivery of final version:
+Before delivery of the final version, the code should meet [the standard requirements](GeneralInfo.md), plus the following:
 
-* user documentation
-* passing all defined tests, on all supported platforms
-* all code in Github
 * code must be language independent
 * MS Office integration must work with all language codes, including such codes that are not known to MS Office
 * all functionality of libdivvun compiled as a grammar checker must be available via a user friendly and functional Graphical User Interface
-* the code must follow established styles and linters for the programming languages in question
 * the code must pass code review by the Divvun group
 * the grammar checker must function according to specifications
+
+--
+
+[1] Screen shots taken of the Swedish grammar checker in MS Word for macOS and Windows.
+
