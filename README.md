@@ -1,5 +1,9 @@
 # Divvun public tender 2018
 
+> **Update 24.8.2018:** The tender is now published on [Doffin](https://www.doffin.no/nn/notice/details/2018-396579) and [TED](https://ted.europa.eu/udl?uri=TED:NOTICE:371669-2018:TEXT:EN:HTML&tabId=1).
+> 
+> See those links for the complete and correct tender. The text below is not part of the tender and tender documents, and is kept here for historic reference only.
+
 The Divvun group at UiT The Arctic University of Norway is extending and improving its tools, and also making new tools for the best of the Sámi community. Most of the planned work involves programming tasks outside the competence of the group, and we are thus running this public tender to find the best suited company or companies to do the work for us.
 
 The Divvun public tender in 2018 covers the following components, or sub-projects, further specified in the linked documents, roughly in priority order. The subprojects are grouped in three: one maintenance part, three projects with immediate start, and projects with later startup dates.
