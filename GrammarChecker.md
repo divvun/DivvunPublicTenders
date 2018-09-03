@@ -1,5 +1,7 @@
 # Grammar Checker integration with MS Office and Google apps
 
+> **Update 3.9.2018**: See [this page](https://github.com/GrammarSoft/proofing-gasmso/wiki/This-is-not-CSAPI) for information about technical limitations in the available API's that limit what is actually possible to implement. The same information has been added to the official tender docs.
+
 This subproject should take our grammar checker library and turn it into a functional grammar checker tool for MS Office and Google apps users, resembling the standard MS Office grammar checker as much as possible.
 
 # Deliverables
