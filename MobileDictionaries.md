@@ -70,4 +70,26 @@ til fst-ane våre på ein eller annan måte, slik at vi får melding om ord som 
 leggjast til i fst-leksikonet, og omvendt: ord vi har i fst-en som ikkje finst i
 ordboka skal finnast som eit tentativt oppslag (men bli ekskludert frå bygginga)
 slik at folk ev. kan leggja til omsetjingar, døme, m.m.
+
+
+Notatar frå eit tidlegare møte, med nokre ref som det kan vera nyttig å ha med seg seinare:
+
+!!! Møte om utlysning av programmeringsjobber, 21.03.2018
+
+
+Waldayu
+ - Ionic Framework - web app framework
+ - same code-base for Android and iOS
+ - responsive design
+ - mobile limitation
+    - screen size
+    - speed
+
+- weighted Levenshtein search
+ Schulz & Mihov 2002 FSA
+
+- Levenshtein automaton on comparison forms
+
+http://waldayu.org/
+
 -->
